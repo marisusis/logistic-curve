@@ -1,0 +1,15 @@
+{
+  "name": "logistic-curve",
+  "version": "0.1.0",
+  "description": "An implementation of the logistic function",
+  "main": "index.js",
+  "repository": "https://github.com/marisusis/logistic-curve.git",
+  "author": "Maris Usis <marisusisme@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
